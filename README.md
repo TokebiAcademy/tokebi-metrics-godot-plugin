@@ -48,4 +48,4 @@ MIT License. See LICENSE file.
 More detailed docs at — [https://tokebimetrics.com/documentation-guide/godot-plugin-guide]
 
 ## Contact
-Created by Marco Diaz — [tokebimetrics.com]
+Created by Marco Diaz — [https://tokebimetrics.com]
