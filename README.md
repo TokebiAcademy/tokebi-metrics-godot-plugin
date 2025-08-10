@@ -9,7 +9,7 @@ An analytics plugin for Godot games to connect with Tokebi Metrics backend.
 
 ## Requirements
 - Godot version 4.0 or higher
-- Tokebi Metrics account (link to website)
+- Tokebi Metrics account [https://tokebimetrics.com]
 
 ## Installation
 # Tokebi Godot Plugin — Quick Setup Steps
